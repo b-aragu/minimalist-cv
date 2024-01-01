@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Nairobi, Kenya, EAT",
   locationLink: "https://www.google.com/maps/place/Nairobi",
   about:
-  "🚀 Aspiring Computer Scientist | Passionate Tech Enthusiast 🖥️ | Transforming code into meaningful innovations! 👨‍💻 | Exploring the realms of algorithms and data structures 🔍 | Lifelong Learner 📚",
+    "🚀 Aspiring Computer Scientist | Passionate Tech Enthusiast 🖥️ | Transforming code into meaningful innovations! 👨‍💻 | Exploring the realms of algorithms and data structures 🔍 | Lifelong Learner 📚",
   summary:
-  	"As a passionate computer science student, I am dedicated to learning new skills and exploring the vast world of technology day in and day out. Through my journey, I have delved into various aspects of computer science, taking on freelance projects that allow me to apply and enhance my knowledge. While I'm still on the learning path, I find joy in the challenges and opportunities that come with each project.",  
+    "As a passionate computer science student, I am dedicated to learning new skills and exploring the vast world of technology day in and day out. Through my journey, I have delved into various aspects of computer science, taking on freelance projects that allow me to apply and enhance my knowledge. While I'm still on the learning path, I find joy in the challenges and opportunities that come with each project.",
   avatarUrl: "https://media.licdn.com/dms/image/D4D03AQFULVEYAh5wfA/profile-displayphoto-shrink_200_200/0/1699103444611?e=1709769600&v=beta&t=nmxEEfPQ76nYu1g494WAwv0mTzfzEjXHAS2rAq0veYI",
   personalWebsiteUrl: "https://baragu.me",
   contact: {
@@ -64,10 +64,9 @@ export const RESUME_DATA = {
       start: "August 2023",
       end: "June 2024 (In Progress)",
     },
-
   ],
   work: [
-       {
+    {
       company: "Freelance Developer",
       link: "https://www.linkedin.com/in/baragu/",
       badges: [],
@@ -89,164 +88,49 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "Todo App",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Learning Project",
+        "Python",
+        "HTML",
+        "CSS",
+        "Flask",
       ],
-      description: "A platform to build and grow your online business",
+      description: "A simple flask Todo app to help learn the flask framework",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "Flasktodoapp.com",
+        href: "https://flask-todo-app-xt3n.onrender.com/",
       },
     },
     {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
-      description:
-        "Browser extension that records everything happening in a web application",
+      title: "Chatbot",
+      techStack: [
+        "Side Project",
+        "Python",
+        "HTML",
+        "CSS",
+	"JS",
+        "Flask",
+      ],
+      description: "A Flask chatbot that allows you to integrate any llm",
+      logo: ConsultlyLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/b-aragu/chatbot",
+      },
+    },
+
+    {
+      title: "Christmas Spin Wheel",
+      techStack: ["Side Project", "Python", "Flask", "Html", "CSS", "JS"],
+      description: "A Secret Santa Web App",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "Secret Santa",
+        href: "https://beasecretsantatoday.onrender.com/",
       },
-    },
-    {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
-      description:
-        "My personal website and blog. Built with Next.js and Notion API",
-      logo: JarockiMeLogo,
-      link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
-      },
-    },
-    {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Minimalist calendars, habit trackers and planners generator",
-      logo: Minimal,
-      link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
-      },
-    },
-    {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Generates beautiful wallpapers using random shapes and gradients",
-      logo: BarepapersLogo,
-      link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
-      },
-    },
-    {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
-      logo: YearProgressLogo,
-      link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
-      },
-    },
-    {
-      title: "Parabol",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
-      logo: ParabolLogo,
-      link: {
-        label: "github.com",
-        href: "https://parabol.co/",
-      },
-    },
-    {
-      title: "Evercast",
-      techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
-      logo: EvercastLogo,
-      link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
-      },
-    },
-    {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for leading virtual mobile operator in Poland",
-      logo: MobileVikingsLogo,
-      link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
-      },
-    },
-    {
-      title: "Howdy",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Howdy is a place for you to join communities you care about",
-      logo: Howdy,
-      link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
-      },
-    },
-    {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
-      logo: TastyCloudLogo,
-      link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
-      },
-    },
-    {
-      title: "Ambit",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with sharing your contact details",
-      logo: AmbitLogo,
-    },
-    {
-      title: "Bim",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with booking a table in a restaurants",
-      logo: BimLogo,
-    },
-    {
-      title: "Canal Digital GO",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Video streaming mobile application for Canal Digital subscribers",
-      logo: CDGOLogo,
     },
   ],
 } as const;
+
