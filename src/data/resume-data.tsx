@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "🚀 Aspiring Computer Scientist | Passionate Tech Enthusiast 🖥️ | Transforming code into meaningful innovations! 👨‍💻 | Exploring the realms of algorithms and data structures 🔍 | Lifelong Learner 📚",
   summary:
-    "As a passionate computer science student, I am dedicated to learning new skills and exploring the vast world of technology day in and day out. Through my journey, I have delved into various aspects of computer science, taking on freelance projects that allow me to apply and enhance my knowledge. While I'm still on the learning path, I find joy in the challenges and opportunities that come with each project.",
+    "A passionate computer science student dedicated to learning new skills and exploring the vast world of technology day in and day out. Through my journey, I have delved into various aspects of computer science, taking on freelance projects that allow me to apply and enhance my knowledge. While I'm still on the learning path, I find joy in the challenges and opportunities that come with each project.",
   avatarUrl: "https://media.licdn.com/dms/image/D4D03AQFULVEYAh5wfA/profile-displayphoto-shrink_200_200/0/1699103444611?e=1709769600&v=beta&t=nmxEEfPQ76nYu1g494WAwv0mTzfzEjXHAS2rAq0veYI",
   personalWebsiteUrl: "https://baragu.me",
   contact: {

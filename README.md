@@ -4,7 +4,8 @@
 
 Simple web app that renders minimalist CV with print-friendly layout.
 
-Built with Next.js and shadcn/ui, deployed on Vercel.
+Built with Next.js and shadcn/ui, by [Bartosz Jarocki](https://github.com/BartoszJarocki/)
+
 
 # Features
 
