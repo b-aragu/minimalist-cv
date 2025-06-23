@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="100" viewBox="0 0 120 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Roller Handle -->
+  <rect x="20" y="15" width="8" height="70" rx="4" fill="url(#handleGradient)" transform="rotate(45 24 50)" />
+  <defs>
+    <linearGradient id="handleGradient" x1="20" y1="15" x2="28" y2="85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#94a3b8"/>
+      <stop offset="1" stop-color="#64748b"/>
+    </linearGradient>
+  </defs>
+  <!-- Roller Head -->
+  <rect x="50" y="25" width="60" height="25" rx="12" fill="url(#headGradient)" />
+  <defs>
+    <linearGradient id="headGradient" x1="50" y1="25" x2="110" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fbbf24"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <!-- Paint Trail -->
+  <rect x="10" y="75" width="80" height="15" rx="8" fill="url(#paintTrailGradient)" opacity="0.7" />
+  <defs>
+    <linearGradient id="paintTrailGradient" x1="10" y1="75" x2="90" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+  <!-- Brand Text -->
+  <text x="60" y="95" text-anchor="middle" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#fff" font-weight="bold" letter-spacing="2">COLOR KENYA</text>
+</svg>

@@ -106,22 +106,29 @@ export default function Page() {
                 <CardHeader>
                   <div className="flex items-center justify-between gap-x-2 text-base">
                     <h3 className="inline-flex items-center justify-center gap-x-1 font-semibold leading-none">
-                      <a className="hover:underline" href={work.link}>
-                        {work.company}
-                      </a>
-
-                      <span className="inline-flex gap-x-1">
-                        {work.badges.map((badge) => (
-                          <Badge
-                            variant="secondary"
-                            className="align-middle text-xs"
-                            key={badge}
-                          >
-                            {badge}
-                          </Badge>
-                        ))}
-                      </span>
-                    </h3>
+  {work.logo && (
+    <img
+      src={typeof work.logo === "string" ? work.logo : work.logo.src || work.logo}
+      alt={work.company + " logo"}
+      className="h-6 w-6 rounded bg-white border border-gray-200 object-contain mr-2"
+      style={{ display: "inline-block", verticalAlign: "middle" }}
+    />
+  )}
+  <a className="hover:underline" href={work.link}>
+    {work.company}
+  </a>
+  <span className="inline-flex gap-x-1">
+    {work.badges.map((badge) => (
+      <Badge
+        variant="secondary"
+        className="align-middle text-xs"
+        key={badge}
+      >
+        {badge}
+      </Badge>
+    ))}
+  </span>
+</h3>
                     <div className="text-sm tabular-nums text-gray-500">
                       {work.start} - {work.end}
                     </div>
@@ -171,16 +178,17 @@ export default function Page() {
           <h2 className="text-xl font-bold">Projects</h2>
           <div className="-mx-3 grid grid-cols-1 gap-3 print:grid-cols-3 print:gap-2 md:grid-cols-2 lg:grid-cols-3">
             {RESUME_DATA.projects.map((project) => {
-              return (
-                <ProjectCard
-                  key={project.title}
-                  title={project.title}
-                  description={project.description}
-                  tags={project.techStack}
-                  link={"link" in project ? project.link.href : undefined}
-                />
-              );
-            })}
+  return (
+    <ProjectCard
+      key={project.title}
+      title={project.title}
+      description={project.description}
+      tags={project.techStack}
+      link={"link" in project ? project.link.href : undefined}
+      logo={project.logo}
+    />
+  );
+})}
           </div>
         </Section>
       </section>

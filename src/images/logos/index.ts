@@ -1,5 +1,5 @@
 import ConsultlyLogo from "./consultly.svg";
-import AmbitLogo from "./ambit.png";
+
 import BarepapersLogo from "./barepapers.svg";
 import BimLogo from "./bim.png";
 import CDGOLogo from "./cdgo.png";
@@ -14,11 +14,20 @@ import NSNLogo from "./nsn.svg";
 import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
-import Minimal from "./minimal.svg";
+
+import ColorKenyaLogo from "./color-kenya-roller.svg";
+import HeyniaLogo from "./heynia.jpg";
+import FreelanceLogo from "./freelance.webp";
+import AfriimportsLogo from "./afriimports.png";
+import HifadhiLogo from "./hifadhi.png";
+import UkamilifuLogo from "./ukamilifu.png";
+import KenyaCHWLogo from "./kenya-chw.png";
+import WandelogoLogo from "./wandelogo.png";
+import WhtaNetworksLogo from "./whta-networks.jpeg";
 
 export {
   ConsultlyLogo,
-  AmbitLogo,
+
   BarepapersLogo,
   BimLogo,
   CDGOLogo,
@@ -33,5 +42,14 @@ export {
   ParabolLogo,
   TastyCloudLogo,
   YearProgressLogo,
-  Minimal,
+
+  AfriimportsLogo,
+  HifadhiLogo,
+  UkamilifuLogo,
+  KenyaCHWLogo,
+  WandelogoLogo,
+  WhtaNetworksLogo,
+  ColorKenyaLogo,
+  HeyniaLogo,
+  FreelanceLogo,
 };

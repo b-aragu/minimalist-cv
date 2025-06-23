@@ -10,16 +10,25 @@ import { Badge } from "./ui/badge";
 interface Props {
   title: string;
   description: string;
-  tags: readonly string[];
+  tags?: readonly string[];
   link?: string;
+  logo?: any;
 }
 
-export function ProjectCard({ title, description, tags, link }: Props) {
+export function ProjectCard({ title, description, tags, link, logo }: Props) {
   return (
     <Card className="flex flex-col overflow-hidden border border-muted p-3">
       <CardHeader className="">
         <div className="space-y-1">
-          <CardTitle className="text-base">
+          <CardTitle className="text-base flex items-center gap-x-2">
+            {logo && (
+              <img
+                src={typeof logo === "string" ? logo : logo.src || logo}
+                alt={title + " logo"}
+                className="h-6 w-6 rounded bg-white border border-gray-200 object-contain"
+                style={{ display: "inline-block", verticalAlign: "middle" }}
+              />
+            )}
             {link ? (
               <a
                 href={link}
@@ -43,7 +52,7 @@ export function ProjectCard({ title, description, tags, link }: Props) {
       </CardHeader>
       <CardContent className="mt-auto flex">
         <div className="mt-2 flex flex-wrap gap-1">
-          {tags.map((tag) => (
+          {(tags ?? []).map((tag) => (
             <Badge
               className="px-1 py-0 text-[10px]"
               variant="secondary"
