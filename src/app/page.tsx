@@ -108,7 +108,7 @@ export default function Page() {
                     <h3 className="inline-flex items-center justify-center gap-x-1 font-semibold leading-none">
   {work.logo && (
     <img
-      src={typeof work.logo === "string" ? work.logo : work.logo.src || work.logo}
+      src={typeof work.logo === "string" ? work.logo : (work.logo && typeof work.logo === "object" && 'src' in work.logo ? work.logo.src : "")}
       alt={work.company + " logo"}
       className="h-6 w-6 rounded bg-white border border-gray-200 object-contain mr-2"
       style={{ display: "inline-block", verticalAlign: "middle" }}
