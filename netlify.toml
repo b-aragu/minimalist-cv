@@ -1,24 +1,24 @@
-# Netlify Configuration for Next.js Portfolio
-# Uses @netlify/plugin-nextjs for SSR/ISR support
+# Netlify Configuration for Next.js Static Export
+# Uses static export (output: 'export') for maximum compatibility
 
 [build]
   command = "npm run build"
-  publish = ".next"
+  publish = "out"
   functions = "netlify/functions"
 
 [build.environment]
   NODE_VERSION = "20"
   NEXT_TELEMETRY_DISABLED = "1"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
+# No Next.js plugin needed for static export
+# [[plugins]]
+#   package = "@netlify/plugin-nextjs"
 
-# Redirects for SPA fallback and clean URLs
+# SPA fallback for client-side routing
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
-  conditions = {Role = ["admin"]}
 
 # Headers for security and performance
 [[headers]]
@@ -43,8 +43,3 @@
   for = "/manifest.json"
   [headers.values]
     Cache-Control = "public, max-age=86400"
-
-# Edge functions for i18n or A/B testing (if needed later)
-# [functions]
-#   node_bundler = "esbuild"
-#   included_files = ["src/**/*"]
