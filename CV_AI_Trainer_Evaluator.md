@@ -1,6 +1,6 @@
 # Antony Baragu
 **AI Trainer / Technical Evaluator** — Model Evaluation, Data Quality, Prompt Engineering, Technical Writing  
-Nairobi, Kenya (EAT) | +254-XXX-XXXXXX | antony@baragu.tech  
+Nairobi, Kenya (EAT) | +254-740-459-672 | baraguantonyy@gmail.com  
 GitHub: github.com/b-aragu | LinkedIn: linkedin.com/in/antony-baragu | Portfolio: baragu.netlify.app
 
 ---

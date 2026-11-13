@@ -1,6 +1,6 @@
 # Antony Baragu
 **AI / Applied AI Engineer** — LLMs, RAG, Vector Search, Multimodal Pipelines  
-Nairobi, Kenya (EAT) | +254-XXX-XXXXXX | antony@baragu.tech  
+Nairobi, Kenya (EAT) | +254-740-459-672 | baraguantonyy@gmail.com  
 GitHub: github.com/b-aragu | LinkedIn: linkedin.com/in/antony-baragu | Portfolio: baragu.netlify.app
 
 ---

@@ -65,7 +65,7 @@ Technically, I work across the full stack:
 
 **Core competencies:** Full-Stack Development • AI/ML Engineering • 3D Web Graphics • Founder-Led Product • M-Pesa Integration • Multi-tenant SaaS • RAG/Vector Search • OCR Pipelines • React Native • Tauri/Rust
 
-Let's connect! I'm always happy to chat about full-stack architecture, AI product engineering, 3D web, or building commercial products in emerging markets. Reach me at [your email] or via GitHub (github.com/b-aragu).
+Let's connect! I'm always happy to chat about full-stack architecture, AI product engineering, 3D web, or building commercial products in emerging markets. Reach me at **baraguantonyy@gmail.com** or **0740459672** or via GitHub (github.com/b-aragu).
 ```
 
 **Character count:** ~2,100 (within limit, first ~300 chars hook visible before "see more")

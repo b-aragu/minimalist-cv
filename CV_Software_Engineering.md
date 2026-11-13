@@ -1,6 +1,6 @@
 # Antony Baragu
 **Software Engineer** — Full-Stack, Systems, Product Builder  
-Nairobi, Kenya (EAT) | +254-XXX-XXXXXX | antony@baragu.tech  
+Nairobi, Kenya (EAT) | +254-740-459-672 | baraguantonyy@gmail.com  
 GitHub: github.com/b-aragu | LinkedIn: linkedin.com/in/antony-baragu | Portfolio: baragu.netlify.app
 
 ---

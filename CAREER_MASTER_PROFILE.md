@@ -226,8 +226,8 @@
 - **Portfolio:** https://baragu.netlify.app (to be revamped)
 - **GitHub:** github.com/b-aragu
 - **LinkedIn:** linkedin.com/in/antony-baragu (to be optimized)
-- **Email:** [your email]
-- **Phone:** [your phone]
+- **Email:** baraguantonyy@gmail.com
+- **Phone:** 0740459672
 - **Live Platforms:** zuriestates.com, siennapaints.com, starnexindustrialspares.com, kikisindustrialchemicals.com
 
 ---
