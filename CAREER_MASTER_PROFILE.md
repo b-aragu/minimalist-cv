@@ -104,18 +104,23 @@
 
 ## EXPERIENCE TIMELINE (Reverse Chronological)
 
-### 2022–Present: Founder & Technical Lead — **Zuri Estates** (Sole Founder)
+### 2026–Present: Founder & Technical Lead — **Zuri Estates** (Sole Founder)
 **Live at:** zuriestates.com | **Repo:** b-aragu/zuriestates | **Stack:** Next.js 14, TypeScript, Tailwind, Sanity CMS, Cloudinary, Mapbox GL, NextAuth.js, PostgreSQL
 
 - **Product:** Real estate platform — 216 properties, 73 developments, multi-role auth (Admin, Agent, Developer, Client), property mapping, inquiry system
 - **Technical:** Designed full architecture; Sanity schemas for property/development/agent content; Mapbox GL integration for geo-search; Cloudinary transformations for optimized property images; NextAuth.js with 4 providers; responsive dashboard for agents/admins
 - **Business:** Live commercial business with revenue; real customers (agents, developers, buyers); active development
 
-### 2022–Present: Co-founder & Technical Lead — **Wande Realty** (Technical Co-founder)
+### 2023–2025: Co-founder & Technical Lead — **Wande Realty** (Technical Co-founder)
 **Stack:** Next.js, TypeScript, Tailwind, Sanity CMS, Cloudinary, NextAuth.js
 
 - **Role:** Technical co-founder — built the platform architecture, CMS, and frontend; separate entity from Zuri Estates
 - **Distinction:** Wande Realty ≠ Zuri Estates (two different businesses); check Wande Realty about page for details
+- **Timeline:** 2023–2025 (ended before Zuri Estates launch in 2026)
+
+### 2025: Founder & Technical Lead — **Sienna Paints Kenya**
+**Stack:** Next.js 14, TypeScript, Tailwind, Sanity CMS, Cloudinary, M-Pesa Daraja, Stripe
+- **Product:** Paint commerce platform — 707 products, multi-author blog, color visualizer, M-Pesa/Stripe payments. Live commercial business with revenue.
 
 ### 2023–Present: AI Integration Engineer — **Heynia** (Employee)
 **Stack:** Python, OpenAI API (GPT-3.5/4 fine-tuning), React, Node.js, MongoDB, Docker, AWS
@@ -130,8 +135,9 @@
 - **Work:** Django/MySQL backend development, REST APIs, Linux server environment
 - **Title Note:** "Backend Software Engineer" on CV reflects attachment role; actual title was attachment student
 
-### 2023–2024 (Academic): Final-Year Project — **UniArchive** (Solo)
+### 2025 (Sep)–2026 (Apr): Final-Year Project — **UniArchive** (Solo)
 **Repo:** b-aragu/UniArchive | **Stack:** FastAPI, PostgreSQL, FAISS, Sentence-Transformers, Tesseract OCR, React, Docker, GitHub Actions
+**Timeline:** Sep 2025 – Apr 2026 (final year project)
 
 - **Problem:** Academic document retrieval at scale — OCR + semantic search
 - **Solution:** End-to-end pipeline: PDF → Tesseract OCR → chunking → Sentence-Transformer embeddings → FAISS vector index → semantic search API → React frontend
@@ -166,7 +172,7 @@
 | **Ukamilifu** (NGO) | React, Vite, MongoDB, Netlify | Donation platform, "Growing Hearts" |
 | **Hifadhi / Thrift Sanctuary** | React, Node, Express, MongoDB, Daraja API | Fashion marketplace, M-Pesa payments |
 | **Color Kenya** | React, Next.js, Styled Components, Netlify | Painter platform, color visualizer |
-| **Kenya CHW** | React, Tailwind, AI Integration, Netlify | Community health worker AI assistant |
+| **Kenya CHW** | React, Tailwind, AI Integration, Netlify | Community health worker AI assistant (2024) |
 | **AfriImports** | Next.js, shadcn/ui, Tailwind, Netlify | Import/export platform |
 
 ---
@@ -191,7 +197,7 @@
 **Metrics:** 60fps animations; AES-256 local encryption; FaceID/TouchID integration  
 **Key Challenge:** Expo SecureStore limitations; encryption key management; media sync conflict resolution  
 
-### 4. Zuri Estates / Sienna Paints / Starnex — Founder Platform Suite
+### 4. Zuri Estates (2026–Present) / Sienna Paints (2025) / Starnex (2023–Present) — Founder Platform Suite
 **Role:** Sole Founder (Zuri) / Founder (Sienna, Starnex) — Technical Lead on all  
 **Stack:** Next.js 14, TypeScript, Tailwind, Sanity CMS, Cloudinary, Mapbox, NextAuth, PostgreSQL  
 **Metrics:** 216 properties / 707 paint SKUs / 739 industrial parts; 4-role auth; multi-currency; live revenue  
@@ -209,7 +215,7 @@
 
 | Degree | Institution | Period | Notes |
 |--------|-------------|--------|-------|
-| **BSc Computer Science** | Multimedia University of Kenya | 2022–2026 | Final-year project: UniArchive |
+| **BSc Computer Science** | Multimedia University of Kenya | Sep 2022–Apr 2026 | Final-year project: UniArchive (Sep 2025–Apr 2026) |
 | **ALX Software Engineering** | ALX Africa | Aug 2023–Jun 2024 | Full-stack curriculum, peer learning |
 
 ---

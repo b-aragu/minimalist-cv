@@ -83,7 +83,7 @@ Multimodal engineer with production experience across the 3D + Generative AI pip
 - **Interactive WebGL Viewer:** Rail-based navigation (hover to turn, click to inspect); touch/swipe mobile; keyboard controls
 - **Asset Output:** Annotated frames with camera poses, lighting params, garment metadata for downstream training
 
-### Final-Year Project — **UniArchive** (OCR + Semantic Search) | 2023–2024
+### Final-Year Project — **UniArchive** (OCR + Semantic Search) | Sep 2025–Apr 2026
 *Stack: FastAPI, Tesseract OCR, FAISS, Sentence-Transformers, React, Docker*
 *Repo: github.com/b-aragu/UniArchive*
 
@@ -103,10 +103,10 @@ Multimodal engineer with production experience across the 3D + Generative AI pip
 ### Commercial Platforms — **Asset Pipeline at Scale** (Founder/Tech Lead)
 | Platform | Media Handled | Pipeline |
 |----------|---------------|----------|
-| **Zuri Estates** | 216 properties × 10+ images | Cloudinary auto-format, responsive, CDN |
-| **Sienna Paints** | 707 products × 5+ images + color swatches | Cloudinary + custom color visualizer (canvas) |
-| **Starnex Industrial** | 739 parts × technical images + datasheets | Cloudinary + PDF datasheet handling |
-| **KIKI'S Chemicals** | 707 chemicals × safety datasheets (PDF) | Sanity + Cloudinary + PDF preview |
+| **Zuri Estates** (2026–Present) | 216 properties × 10+ images | Cloudinary auto-format, responsive, CDN |
+| **Sienna Paints** (2025) | 707 products × 5+ images + color swatches | Cloudinary + custom color visualizer (canvas) |
+| **Starnex Industrial** (2023–Present) | 739 parts × technical images + datasheets | Cloudinary + PDF datasheet handling |
+| **KIKI'S Chemicals** (2022–2023) | 707 chemicals × safety datasheets (PDF) | Sanity + Cloudinary + PDF preview |
 
 ---
 
@@ -135,8 +135,8 @@ Multimodal engineer with production experience across the 3D + Generative AI pip
 
 ## EDUCATION
 
-**BSc Computer Science** — Multimedia University of Kenya (2022–2026)  
-*Thesis: "Semantic Retrieval for Academic Documents Using Vector Embeddings" — UniArchive (OCR + FAISS)*
+**BSc Computer Science** — Multimedia University of Kenya (Sep 2022–Apr 2026)  
+*Thesis: "Semantic Retrieval for Academic Documents Using Vector Embeddings" — UniArchive (OCR + FAISS, Sep 2025–Apr 2026)*
 
 **ALX Software Engineering Certificate** — ALX Africa (Aug 2023–Jun 2024)  
 *Full-stack, data structures, algorithms, system design*

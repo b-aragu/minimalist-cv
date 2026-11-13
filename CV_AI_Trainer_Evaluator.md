@@ -49,7 +49,7 @@ Technical evaluator with hands-on production AI experience: GPT fine-tuning via 
 - **Regression Testing:** Automated test suite for prompt changes; golden-set evaluation on every deploy; alerting on quality regression
 - **Data Quality:** Curated fine-tuning dataset from clinic transcripts — de-identification, format normalization, quality scoring, train/val/test splits
 
-### Final-Year Project — **UniArchive** (Solo) | 2023–2024
+### Final-Year Project — **UniArchive** (Solo) | Sep 2025–Apr 2026
 *FastAPI, FAISS, Sentence-Transformers, Tesseract, Docker, GitHub Actions*
 *Repo: github.com/b-aragu/UniArchive*
 
@@ -60,7 +60,7 @@ Technical evaluator with hands-on production AI experience: GPT fine-tuning via 
 - **Hybrid Search Tuning:** BM25 + vector weight optimization via grid search on validation set; reciprocal rank fusion parameter sweep
 - **Documentation:** Evaluation report with methodology, results tables, failure analysis, recommendations
 
-### Independent Project — **Kenya CHW** (AI Community Health Worker) | 2023–2024
+### Independent Project — **Kenya CHW** (AI Community Health Worker) | 2024
 *React, Tailwind, OpenAI API, Netlify*
 *Repo: github.com/b-aragu/Kenya-CHW*
 
@@ -92,16 +92,16 @@ Technical evaluator with hands-on production AI experience: GPT fine-tuning via 
 | **Git/Workflow** | Expert | Trunk-based; conventional commits; PR reviews |
 
 **Commercial Platforms Built (Founder/Tech Lead):**
-- **Zuri Estates** — 216 properties, 73 developments, multi-role auth, Mapbox, Sanity CMS (live revenue)
-- **Sienna Paints** — 707 products, color visualizer, multi-author blog, M-Pesa/Stripe (live revenue)
-- **Starnex Industrial Spares** — 739 parts, multi-currency, inquiry system, Sanity CMS (live revenue)
+- **Zuri Estates** (2026–Present) — 216 properties, 73 developments, multi-role auth, Mapbox, Sanity CMS (live revenue)
+- **Sienna Paints** (2025) — 707 products, color visualizer, multi-author blog, M-Pesa/Stripe (live revenue)
+- **Starnex Industrial Spares** (2023–Present) — 739 parts, multi-currency, inquiry system, Sanity CMS (live revenue)
 
 ---
 
 ## EDUCATION
 
-**BSc Computer Science** — Multimedia University of Kenya (2022–2026)  
-*Thesis: "Semantic Retrieval for Academic Documents Using Vector Embeddings" — UniArchive project*
+**BSc Computer Science** — Multimedia University of Kenya (Sep 2022–Apr 2026)  
+*Thesis: "Semantic Retrieval for Academic Documents Using Vector Embeddings" — UniArchive project (Sep 2025–Apr 2026)*
 
 **ALX Software Engineering Certificate** — ALX Africa (Aug 2023–Jun 2024)  
 *Full-stack engineering, data structures, algorithms, system design, peer code review*
@@ -128,9 +128,3 @@ Technical evaluator with hands-on production AI experience: GPT fine-tuning via 
 4. **Technical Writing:** Clear, structured documentation — essential for annotation guidelines, evaluation reports, benchmark specs
 5. **Production Reality:** All evaluation work tied to live systems with real users, not academic toy problems
 6. **African Context:** M-Pesa, Swahili/English, local domains — valuable for geographic diversity in training/eval data
-
----
-
-## REFERENCES
-
-Available upon request. Can provide evaluation reports, prompt libraries, and technical deep-dives.

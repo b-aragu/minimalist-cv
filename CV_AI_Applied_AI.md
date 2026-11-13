@@ -36,7 +36,7 @@ Applied AI Engineer with production experience across the full ML lifecycle: GPT
 - **Infrastructure:** Docker containerization; AWS deployment (EC2, RDS, S3); CI/CD with automated model evaluation gates
 - **Scale:** Production serving for dental clinic platform; concurrent user handling; cost monitoring
 
-### Final-Year Project — **UniArchive** (Solo) | 2023–2024
+### Final-Year Project — **UniArchive** (Solo) | Sep 2025–Apr 2026
 *Stack: FastAPI, PostgreSQL, FAISS, Sentence-Transformers, Tesseract OCR, React, Docker, GitHub Actions*
 *Repo: b-aragu/UniArchive*
 
@@ -47,7 +47,7 @@ Applied AI Engineer with production experience across the full ML lifecycle: GPT
 - **Evaluation:** Precision@5, Recall@10, MRR metrics on academic query set; OCR accuracy benchmarking on 50+ document types
 - **Deployment:** Multi-stage Docker builds; GitHub Actions CI/CD (lint, typecheck, test, build, deploy to Netlify/Vercel)
 
-### Independent Project — **Kenya CHW** (AI Community Health Worker) | 2023–2024
+### Independent Project — **Kenya CHW** (AI Community Health Worker) | 2024
 *Stack: React, Tailwind, AI Integration (OpenAI API), Netlify*
 *Repo: b-aragu/Kenya-CHW*
 
@@ -77,18 +77,18 @@ Applied AI Engineer with production experience across the full ML lifecycle: GPT
 
 | Platform | Role | Stack | AI Relevance |
 |----------|------|-------|--------------|
-| **Zuri Estates** | Sole Founder/Tech Lead | Next.js, Sanity, PostgreSQL, Mapbox | Geo-search, recommendation potential |
-| **Sienna Paints** | Founder/Tech Lead | Next.js, Sanity, Cloudinary | Color visualizer (shader-based) |
-| **Starnex Industrial** | Founder/Tech Lead | Next.js, Sanity, Multi-currency | B2B product matching |
-| **Mdaftari** | Solo Engineer | React, TypeScript, IndexedDB, Daraja | Offline ML (on-device) exploration |
-| **365** | Solo Engineer | React Native, Expo, Encryption | On-device private journaling |
+| **Zuri Estates** | Sole Founder/Tech Lead (2026–Present) | Next.js, Sanity, PostgreSQL, Mapbox | Geo-search, recommendation potential |
+| **Sienna Paints** | Founder/Tech Lead (2025) | Next.js, Sanity, Cloudinary | Color visualizer (shader-based) |
+| **Starnex Industrial** | Founder/Tech Lead (2023–Present) | Next.js, Sanity, Multi-currency | B2B product matching |
+| **Mdaftari** | Solo Engineer (2023–2024) | React, TypeScript, IndexedDB, Daraja | Offline ML (on-device) exploration |
+| **365** | Solo Engineer (2023–2024) | React Native, Expo, Encryption | On-device private journaling |
 
 ---
 
 ## EDUCATION
 
-**BSc Computer Science** — Multimedia University of Kenya (2022–2026)  
-*Final-year project: UniArchive — OCR + FAISS Semantic Search (thesis: "Semantic Retrieval for Academic Documents Using Vector Embeddings")*
+**BSc Computer Science** — Multimedia University of Kenya (Sep 2022–Apr 2026)  
+*Final-year project: UniArchive — OCR + FAISS Semantic Search (Sep 2025–Apr 2026)*
 
 **ALX Software Engineering Certificate** — ALX Africa (Aug 2023–Jun 2024)  
 *Curriculum: Python, Flask, Django, React, Data Structures, Algorithms, System Design*
@@ -118,5 +118,3 @@ Applied AI Engineer with production experience across the full ML lifecycle: GPT
 ---
 
 ## REFERENCES
-
-Available upon request. Can provide technical deep-dive on any project above.

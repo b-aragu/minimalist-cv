@@ -98,7 +98,7 @@ Junior ML Engineer with 4+ years of full-stack production experience and special
 
 ## EXPERIENCE
 
-### 2022–Present: Founder & Technical Lead — **Zuri Estates** (Sole Founder)
+### 2026–Present: Founder & Technical Lead — **Zuri Estates** (Sole Founder)
 **Live:** zuriestates.com | **Stack:** Next.js 14, TypeScript, Tailwind, Sanity CMS, Cloudinary, Mapbox GL, NextAuth.js, PostgreSQL
 
 - Built live commercial real estate platform from 0→1: 216 properties, 73 developments, multi-role auth, Mapbox geo-search
@@ -116,7 +116,7 @@ Junior ML Engineer with 4+ years of full-stack production experience and special
 - Django/MySQL backend development, REST APIs, Linux server environment
 - Built data processing pipelines and API integrations
 
-### 2023–2024: Final-Year Project — **UniArchive** (Solo)
+### 2025 (Sep)–2026 (Apr): Final-Year Project — **UniArchive** (Solo)
 **Stack:** FastAPI, PostgreSQL, FAISS, Sentence-Transformers, Tesseract, React, Docker, GitHub Actions
 
 - **Full ML pipeline:** OCR → embeddings → vector search → evaluation
@@ -133,7 +133,7 @@ Junior ML Engineer with 4+ years of full-stack production experience and special
 
 | Degree | Institution | Period | Details |
 |--------|-------------|--------|---------|
-| **BSc Computer Science** | Multimedia University of Kenya | 2022–2026 | Final-year project: UniArchive (OCR + Vector Search) |
+| **BSc Computer Science** | Multimedia University of Kenya | Sep 2022–Apr 2026 | Final-year project: UniArchive (OCR + Vector Search) |
 | **ALX Software Engineering** | ALX Africa | Aug 2023–Jun 2024 | Full-stack curriculum, peer learning, 1000+ hours |
 
 ---

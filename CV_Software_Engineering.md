@@ -25,7 +25,7 @@ Software Engineer with 4+ years building and shipping production full-stack appl
 
 ## EXPERIENCE
 
-### Founder & Technical Lead — **Zuri Estates** (Sole Founder) | 2022–Present
+### Founder & Technical Lead — **Zuri Estates** (Sole Founder) | 2026–Present
 *Live commercial platform: zuriestates.com | Stack: Next.js 14, TypeScript, Tailwind, Sanity CMS, Cloudinary, Mapbox GL, NextAuth.js, PostgreSQL*
 
 - Architected and built full-stack real estate platform: 216 properties, 73 developments, 4-role auth (Admin, Agent, Developer, Client), Mapbox geo-search, inquiry system
@@ -34,18 +34,25 @@ Software Engineer with 4+ years building and shipping production full-stack appl
 - Configured Docker multi-stage builds + GitHub Actions CI/CD (lint, typecheck, test, deploy); zero-downtime Netlify deployments
 - **Business outcome:** Live revenue-generating business with real customers (agents, developers, buyers); active development
 
-### Co-founder & Technical Lead — **Wande Realty** (Technical Co-founder) | 2022–Present
+### Co-founder & Technical Lead — **Wande Realty** (Technical Co-founder) | 2023–2025
 *Separate entity from Zuri Estates | Stack: Next.js, TypeScript, Tailwind, Sanity CMS, Cloudinary, NextAuth.js*
 
 - Built platform architecture, CMS, and frontend as technical co-founder; distinct business entity with separate codebase
 - Shared component library and patterns with Zuri Estates for consistency and velocity
+
+### Founder & Technical Lead — **Sienna Paints Kenya** | 2025
+*Live commercial platform: siennapaints.com | Stack: Next.js 14, TypeScript, Tailwind, Sanity CMS, Cloudinary, M-Pesa Daraja, Stripe*
+
+- Built e-commerce platform: 707 products, multi-author blog, color visualizer (Canvas), M-Pesa/Stripe payments
+- Sanity CMS for multi-author blog + product content; Cloudinary transformation pipeline
+- Shared core architecture with Zuri Estates for velocity
 
 ### AI Integration Engineer — **Heynia** (Employee) | Jan 2023–Present
 *Stack: Python, OpenAI GPT-3.5/4 Fine-tuning API, React, Node.js, MongoDB, Docker, AWS*
 
 - Implemented GPT-3.5/4 fine-tuning via OpenAI hosted API for dental clinic use case; designed custom LLM wrapper libraries
 - Containerized services with Docker; deployed to AWS (EC2, RDS, S3); configured CI/CD pipelines
-- Part-time during university studies (BSc 2022–2026, ALX 2023–2024)
+- Part-time during university studies (BSc Sep 2022–Apr 2026, ALX Aug 2023–Jun 2024)
 
 ### Backend Developer (Industrial Attachment) — **wHTa Networks** | May–Jul 2024
 *Stack: Python, Django, Django REST Framework, MySQL, Linux*
@@ -57,7 +64,7 @@ Software Engineer with 4+ years building and shipping production full-stack appl
 
 | Project | Period | Stack | Highlights |
 |---------|--------|-------|------------|
-| **UniArchive** (Final-Year) | 2023–2024 | FastAPI, PostgreSQL, FAISS, Sentence-Transformers, Tesseract, React, Docker | OCR + semantic search pipeline; FAISS IVF index; hybrid keyword+vector search; CI/CD |
+| **UniArchive** (Final-Year) | Sep 2025–Apr 2026 | FastAPI, PostgreSQL, FAISS, Sentence-Transformers, Tesseract, React, Docker | OCR + semantic search pipeline; FAISS IVF index; hybrid keyword+vector search; CI/CD |
 | **Mdaftari** | 2023–2024 | React, TypeScript, Vite, IndexedDB, Service Workers, M-Pesa Daraja | Offline-first PWA; SMS parsing; STK Push; zero-server architecture |
 | **365** | 2023–2024 | React Native, Expo, TypeScript, SecureStore, SQLite, Biometric Auth | Encrypted journaling; AES-256 local encryption; FaceID/TouchID; media sync |
 | **vaafiti** | 2024–Present | Three.js/R3F, Tauri/Rust, Next.js, Stripe, PostgreSQL | 3D multi-tenant SaaS; WebGL virtual try-on; tenant isolation; Stripe Connect billing |
@@ -96,22 +103,8 @@ Software Engineer with 4+ years building and shipping production full-stack appl
 
 ## EDUCATION
 
-**BSc Computer Science** — Multimedia University of Kenya (2022–2026)  
-*Final-year project: UniArchive (OCR + Semantic Search)*
+**BSc Computer Science** — Multimedia University of Kenya (Sep 2022–Apr 2026)  
+*Final-year project: UniArchive (OCR + Semantic Search, Sep 2025–Apr 2026)*
 
-**ALX Software Engineering Certificate** — ALX Africa (Aug 2023–Jun 2024)  
-*Full-stack curriculum, peer learning, project-based*
-
----
-
-## OPEN SOURCE & COMMUNITY
-
-- Contributor to interactive-garment-starter (3D generative AI garment visualization)
-- Active on GitHub: github.com/b-aragu (12+ public repos, consistent commits)
-- Technical writer: Project READMEs, API documentation, architecture decision records
-
----
-
-## REFERENCES
-
-Available upon request.
+**ALX Software Engineering** — ALX Africa (Aug 2023–Jun 2024)  
+*Full-stack curriculum, peer learning, 1000+ hours*
