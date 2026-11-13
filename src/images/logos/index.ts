@@ -15,6 +15,19 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 
+// Founder Platform Logos
+import ZuriEstatesLogo from "./zuri-estates.svg";
+import SiennaPaintsLogo from "./sienna-paints.svg";
+import StarnexLogo from "./starnex.svg";
+import KikisLogo from "./kikis.svg";
+
+// Independent / Flagship Project Logos
+import UniArchiveLogo from "./uniarchive.svg";
+import MdaftariLogo from "./mdaftari.svg";
+import ThreeSixFiveLogo from "./365.svg";
+import VaafitiLogo from "./vaafiti.svg";
+
+// Freelance / Client Project Logos
 import ColorKenyaLogo from "./color-kenya-roller.svg";
 import HeyniaLogo from "./heynia.jpg";
 import FreelanceLogo from "./freelance.webp";
@@ -43,6 +56,19 @@ export {
   TastyCloudLogo,
   YearProgressLogo,
 
+  // Founder Platforms
+  ZuriEstatesLogo,
+  SiennaPaintsLogo,
+  StarnexLogo,
+  KikisLogo,
+
+  // Independent / Flagship Projects
+  UniArchiveLogo,
+  MdaftariLogo,
+  ThreeSixFiveLogo,
+  VaafitiLogo,
+
+  // Freelance / Client Projects
   AfriimportsLogo,
   HifadhiLogo,
   UkamilifuLogo,

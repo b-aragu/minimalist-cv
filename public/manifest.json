@@ -1,0 +1,31 @@
+{
+  "name": "Antony Baragu | Software Engineer & Technical Product Builder",
+  "short_name": "Antony Baragu",
+  "description": "Software Engineer & Technical Product Builder — Full-Stack, AI/ML, 3D Web, Founder-Led Products",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/images/logos/baragu.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "technology"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Projects",
+      "url": "/#projects",
+      "description": "View featured projects"
+    },
+    {
+      "name": "Contact",
+      "url": "/#contact",
+      "description": "Get in touch"
+    }
+  ]
+}

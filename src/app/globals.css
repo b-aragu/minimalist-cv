@@ -72,9 +72,95 @@
   }
   body {
     @apply bg-background text-foreground;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
   }
 }
 
-.print-force-new-page {
-  page-break-before: always;
+@layer utilities {
+  .print-force-new-page {
+    page-break-before: always;
+  }
+
+  .print-avoid-break {
+    page-break-inside: avoid;
+  }
+
+  .scroll-mb-16 {
+    scroll-margin-bottom: 4rem;
+  }
+
+  /* Print-specific styles */
+  @media print {
+    .no-print {
+      display: none !important;
+    }
+
+    .print-only {
+      display: block !important;
+    }
+
+    .print-break-before {
+      page-break-before: always;
+    }
+
+    .print-break-after {
+      page-break-after: always;
+    }
+
+    .print-break-inside-avoid {
+      page-break-inside: avoid;
+    }
+
+    main {
+      padding: 0 !important;
+      max-width: none !important;
+    }
+
+    section {
+      max-width: none !important;
+    }
+
+    .card {
+      page-break-inside: avoid;
+    }
+
+    a {
+      text-decoration: none !important;
+      color: inherit !important;
+    }
+
+    a[href^="http"]::after {
+      content: " (" attr(href) ")";
+      font-size: 0.7em;
+      color: #666;
+    }
+
+    .badge {
+      border: 1px solid #ccc !important;
+      background: white !important;
+      color: #333 !important;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .ring-primary\/30 {
+      border: 1px solid #000 !important;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+  }
+}
+
+@layer components {
+  .prose-xs {
+    @apply text-[10px] leading-normal;
+  }
+
+  .prose-sm {
+    @apply text-xs leading-relaxed;
+  }
+
+  .prose-base {
+    @apply text-sm leading-relaxed;
+  }
 }
